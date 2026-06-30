@@ -39,3 +39,5 @@
   - Auto update to 4.1.1-r1
 - 4.1.2-r0
   - Auto update to 4.1.2-r0
+- 4.1.3-r0
+  - Auto update to 4.1.3-r0
