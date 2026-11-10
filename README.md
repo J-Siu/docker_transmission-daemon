@@ -15,7 +15,7 @@
 ### Build
 
 ```sh
-git clone https://github.com/J-Siu/docker_transmission.git
+git clone https://github.com/J-Siu/docker_transmission-daemon.git
 cd docker_transmission
 docker build --network=host -t jsiu/transmission-daemon .
 ```
@@ -62,7 +62,7 @@ docker-compose up
 
 ### Repository
 
-- [docker_transmission](https://github.com/J-Siu/docker_transmission)
+- [docker_transmission-daemon](https://github.com/J-Siu/docker_transmission-daemon)
 
 ### Docker Hub
 
